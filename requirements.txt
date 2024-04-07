@@ -1,0 +1,8 @@
+requests
+aiohttp
+asyncpg
+async-timeout
+SQLAlchemy
+more_itertools
+typing-extensions
+python-dotenv
